@@ -241,4 +241,4 @@ tail -100f /var/log/dailysync.log
 ![二维码扫码](./assets/wechat_qr.png)
 
 
-12
+123
